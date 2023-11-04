@@ -40,6 +40,7 @@ function Clear() {
 		mb[i].innerHTML = (i+1)+"";
 		mb[i].disabled = false;
         nClicks = 0;
+        
 	}
 	
 }

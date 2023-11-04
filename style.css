@@ -8,13 +8,12 @@
 }
 
 h1 {
-	color: white;
 	padding: 15px;
 }
 
 body {
     text-align: center;
-	background-color: rgb(20, 20, 92);
+	background-color: rgb(171, 171, 211);
 }
 
 
@@ -25,11 +24,11 @@ body {
 	height: 55px;
 	border-radius: 45px;
 	border: none;
-	background-color: rgb(249, 250, 255);
-	color: black;
-	box-shadow: 0px 10px 10px rgb(210, 187, 253) inset,
+	background-color: rgb(138, 79, 247);
+	color: white;
+	box-shadow: 0px 10px 10px rgb(119, 67, 215) inset,
 	0px 5px 10px rgba(5, 5, 5, 0.212),
-	0px -10px 10px rgb(200, 191, 247) inset;
+	0px -10px 10px rgb(69, 53, 172)inset;
 	cursor: pointer;
 	display: flex;
 	align-items: center;
